@@ -1,0 +1,20 @@
+<level width="800" height="600">
+  <NewLayer0 exportMode="GridRectangles">
+    <rect x="0" y="21" w="40" h="9" />
+    <rect x="1" y="20" w="5" h="1" />
+    <rect x="3" y="19" w="3" h="1" />
+    <rect x="7" y="19" w="7" h="2" />
+    <rect x="8" y="18" w="5" h="1" />
+    <rect x="9" y="17" w="2" h="1" />
+    <rect x="14" y="20" w="26" h="1" />
+    <rect x="15" y="19" w="15" h="1" />
+    <rect x="18" y="17" w="1" h="2" />
+    <rect x="19" y="18" w="1" h="1" />
+    <rect x="23" y="18" w="4" h="1" />
+    <rect x="24" y="17" w="1" h="1" />
+    <rect x="28" y="18" w="1" h="1" />
+    <rect x="32" y="19" w="5" h="1" />
+    <rect x="38" y="18" w="1" h="2" />
+    <rect x="39" y="19" w="1" h="1" />
+  </NewLayer0>
+</level>
